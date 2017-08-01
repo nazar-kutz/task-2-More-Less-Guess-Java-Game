@@ -1,0 +1,5 @@
+#Intellij IDEA
+.idea/
+out/
+MoreLessGuess.iml/
+target/
